@@ -1,44 +1,38 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 0    
 }
+
 
 .backround {
     background-color: #FFC1CC;
-  
-
   width: 100vw;
-  height: 100vh;
-  
-  
- 
+  height: 98vh;
+  position: relative;
 }
 
 .backround2 {
     background-color: #FFC1CC;
-  
-
   width: 100vw;
-  height: 80vh;
-  
-  
- 
+  height: 99vh;
+  position: relative;
 }
 
 .box {
-   
     background-color: #E75480 ;
   margin:auto;
   align-items: center ;
   width: 75vw;
-  height:auto;
+  height:max-content;
   padding: 15px;
-  
 }
 
 .pavadinimas {
     text-align: center;
     padding: 10px;
+    background-color:#f61e61;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 img {
@@ -60,6 +54,7 @@ img {
 .aprasymas {
     text-align: center;
     padding: 10px;
+    
 }
 
 .stulpelis {
@@ -129,4 +124,29 @@ text-align: center;
 
 .isikurimas{
     text-align: center;
+
+}
+
+.isikurimasp
+{
+ padding: 60px;
+}
+
+.eitzemiau{
+    display: block;
+    position:absolute;
+  
+  text-align: center;
+  width: 50%;
+  bottom: 0;
+  right: 24%;
+  padding: 5px;
+  padding-bottom: 60px;
+}
+
+.aciu {
+    position: absolute;
+    bottom: 0;
+    right: 45%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }

@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.backround {
+    background-color: #FFC1CC;
+    margin: auto;
+  width: 100vw;
+  height: 110vh;
+  
+  
+ 
+}
+
+.box {
+  
+    background-color: #E75480 ;
+  margin:auto;
+  align-items: center ;
+  width: 75vw;
+  height: 91vh;
+  padding: 15px;
+  
+}
+
+.pavadinimas {
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+}
+
+.photocrop {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+}
+
+
+
+.aprasymas {
+    text-align: center;
+    padding: 10px;
+}
+
+.stulpelis {
+    clear: both;
+}
+
+.list{
+    width: 40%;
+    height: max-content;
+    float: left;
+    align-items: center;
+    text-align: left;
+    list-style-position: inside;
+   
+   
+   
+}
+
+.ingredientai {
+    width: 50%;
+    float: left;
+    align-items: center;
+    text-align: right;
+    list-style-position: inside;
+
+}
+
+.button
+{
+    text-align: center;
+    padding: 15px;
+}
+
+h3 {
+    display:flexbox;
+    text-align:center;
+}
+.listspaceb
+{
+    clear: both;
+    margin: auto;
+  align-items: center ;
+  
+  height: 180px;
+  width: 5%;
+  float: left;
+  align-items: center;
+  text-align: center;
+ 
+}
+
+.listspacek
+{
+    clear: both;
+    margin: auto;
+  align-items: center ;
+  
+  height: 220px;
+  width: 5%;
+  float: left;
+  align-items: center;
+  text-align: center;
+ 
+}
+
+p {
+text-align: center;
+}
+
